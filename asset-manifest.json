@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fine-flavor/static/css/main.2c1c1cba.css",
+    "main.js": "/fine-flavor/static/js/main.a10797c2.js",
+    "static/media/plate-1.png": "/fine-flavor/static/media/plate-1.124b181cd415b9af68a2.png",
+    "static/media/plate-2.png": "/fine-flavor/static/media/plate-2.6f66ae2c88ee5a8cd9a2.png",
+    "index.html": "/fine-flavor/index.html",
+    "main.2c1c1cba.css.map": "/fine-flavor/static/css/main.2c1c1cba.css.map",
+    "main.a10797c2.js.map": "/fine-flavor/static/js/main.a10797c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c1c1cba.css",
+    "static/js/main.a10797c2.js"
+  ]
+}
