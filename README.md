@@ -1,16 +1,46 @@
-# 🚧 README em construção 🚧
+# :cake: App de Receitas Fine Flavor :wine_glass:
 
-<!-- Olá, Tryber!
+Projeto React desenvolvido em grupo por Danielly Olimpo, Raphael Martins,Leonardo Dantas e Gabriel Harmel ao final do Módulo Desenvolvimento Front-end do curso de Desenvolvimento Web full stack da Trybe.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+:sparkles: A proposta foi o desenvolvimento de um aplicativo de receitas mobile em React.js com o consumo das informações de duas APIs públicas -uma de alimentos e outra de bebidas. Além disso, o grupo escolheu trabalhar com as metodologias ágeis Kanban e Scrum.
 
-É essencial que você preencha esse documento por conta própria, ok?
+:construction: Essa aplicação foi desenvolvida visando, inicialmente, apresentação em mobile, por isso, ainda estou trabalhando em sua responsividade para os demais formatos de exibição.
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+:pencil2: Tecnologias e Habilidades:
+<details>
+  <summary> :brazil: Português</summary>
+    - Desenvolvimento de aplicação React.
+    
+    - Consumo de dados de APIs públicas.
+    
+    - Desenvomento de testes em RTL.
+    
+    - Uso de Redux para gerenciamento da aplicação.
+    
+    - Estilização em CSS e Sass.
+    
+    - Prototiapagem com o Figma.
+    
+    - Produção em equipe com uso das metodologias ágeis.
+    
+ 
+</details>
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+<details>
+  <summary>:us: English</summary>
+     - React application development.
+     
+     - Data consumption from public APIs.
+     
+     - Development of tests in RTL.
+     
+     - Use of Redux for application management.
+     
+     - Styling in CSS and Sass.
+     
+     - Prototyping with Figma.
+     
+     - Team production using agile methodologies.
+     
+</details>
 
--->
