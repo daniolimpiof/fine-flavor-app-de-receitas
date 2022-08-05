@@ -1,4 +1,4 @@
-# :cake: App de Receitas Fine Flavor :wine_glass:
+# 🇧🇷 App de Receitas Fine Flavor :wine_glass:
 
 Projeto React desenvolvido em grupo por Danielly Olimpo, Raphael Martins,Leonardo Dantas e Gabriel Harmel ao final do Módulo Desenvolvimento Front-end do curso de Desenvolvimento Web full stack da Trybe.
 
@@ -6,7 +6,15 @@ Projeto React desenvolvido em grupo por Danielly Olimpo, Raphael Martins,Leonard
 
 :construction: Essa aplicação foi desenvolvida visando, inicialmente, apresentação em mobile, por isso, ainda estou trabalhando em sua responsividade para os demais formatos de exibição.
 
-:pencil2: Tecnologias e Habilidades:
+# :us: Fine Flavor Recipes App :wine_glass:
+
+React project developed in a group by Danielly Olimpo, Raphael Martins, Leonardo Dantas and Gabriel Harmel at the end of the Front-end Development Module of the Trybe full stack Web Development course.
+
+:sparkles: The proposal was the development of a mobile recipe application in React.js with the consumption of information from two public APIs - one for food and the other for drinks. In addition, the group chose to work with the agile Kanban and Scrum methodologies.
+
+:construction: This application was developed aiming, initially, for presentation on mobile, so I'm still working on its responsiveness to the other display formats.
+
+:pencil2: Tecnologias e Habilidades / Technologies and Skills:
 <details>
   <summary> :brazil: Português</summary>
     - Desenvolvimento de aplicação React.
